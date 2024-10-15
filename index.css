@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(88, 30, 15) !important;
+}
+.container {
+    max-width: 340px !important;
+    margin-top: 30px !important;
+}
+
+.button {
+    height: 80px;
+    width: 80px;
+    font-size: 24px;
+    display: flex !important;;
+    justify-content: center;
+    align-items: center;
+}
+
+.result {
+    height: 100px; 
+    max-width: 330px; 
+    font-size: 32px; 
+    text-align: right; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #90A1BC; 
+}
+
